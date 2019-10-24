@@ -1,4 +1,4 @@
-# Sullivan 2019: Bixby Team
+# Sullivan 2019: Bixby Team #2
 
 ## 교육 개요
 
